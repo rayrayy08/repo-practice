@@ -1,0 +1,31 @@
+            <style type="text/css"
+            h1{
+                color:lightpink;
+                text-align: center;
+            }
+            h2{
+                color: deeppink;
+                font-weight:bold;
+                font-decoration: underline;
+                text-align: center;
+            }
+            h3{
+                color: hotpink;
+                font-style: italic;
+                text-align: center;
+            }
+            h4{
+                color:deeppink;
+                font-size:12pt;
+                text-align: center;
+            }
+            p{
+                letter-spacing: 0.5;
+                word-spacing: 0.25em;
+                line-height:1.5;
+                text-align: center;
+            }
+          #rayList{
+            color: hotpink;
+        }
+        </style>
